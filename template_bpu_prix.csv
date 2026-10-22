@@ -1,0 +1,12 @@
+code;designation;unite;prix_unitaire
+deblai_meuble;Déblais meubles en grande masse;m3;6.50
+deblai_rocher;Déblais rocheux à l'explosif / brise-roche;m3;18.00
+remblai;Remblais méthodiquement compactés;m3;8.00
+couche_forme;Couche de forme en matériaux traités;m3;22.00
+couche_base;Couche de base en grave-bitume;t;65.00
+couche_roulement;Béton bitumineux semi-grenu (BBSG 0/10);m2;14.50
+fosses_trapezoidaux;Fossés latéraux en béton;ml;42.00
+buses_dn1000;Canalisations circulaires BA DN1000;ml;140.00
+glissieres_metalliques;Glissières de sécurité métalliques niveau N2;ml;58.00
+signalisation_horizontale;Marquage et bandes réfléchissantes;ml;4.50
+clotures;Clôtures en grillage simple torsion;ml;25.00

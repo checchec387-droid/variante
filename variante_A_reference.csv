@@ -1,0 +1,8 @@
+code;designation;categorie;quantite;unite
+deblai_meuble;Déblais meubles en grande masse;TERRASSEMENT;40000;m3
+deblai_rocher;Déblais rocheux à l'explosif;TERRASSEMENT;10000;m3
+remblai;Remblais méthodiquement compactés;TERRASSEMENT;45000;m3
+couche_base;Couche de base en grave non traitée;CHAUSSEE;15000;m3
+couche_roulement;Béton bitumineux semi-grenu (BBSG);CHAUSSEE;25000;m2
+fosses_trapezoidaux;Fossés latéraux en béton;ASSAINISSEMENT;3500;ml
+glissieres_metalliques;Glissières de sécurité métalliques N2;EQUIPEMENT;2000;ml
